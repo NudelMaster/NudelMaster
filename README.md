@@ -26,7 +26,7 @@
    ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
    ![C](https://img.shields.io/badge/-C-555555?style=flat&logo=c&logoColor=white)    
 
-3. [Lunar Landing Reinforcement Learning](https://github.com/NudelMaster/lunar-landing-rl): Reinforcement learning project solving the Lunar Lander environment using PyTorch.  
+3. [Lunar Landing Reinforcement Learning](https://github.com/NudelMaster/lunar-lander-rl): Reinforcement learning project solving the Lunar Lander environment using PyTorch.  
    ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
    ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
