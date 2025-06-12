@@ -1,10 +1,10 @@
 👋 Hi, I'm Yefim Nudelman!
 
 🎯 About Me
-- 🌱 Currently learning: Advanced Machine Learning & Theoretical Computer Science
+- 🌱 Currently enrolled in an exchange semester for Computer Science at the University of Bonn, Germany
 - 💻 Passionate about building scalable algorithms and efficient software systems
 - 🚀 Always excited about new technologies and solving challenging problems
-- 📬 Reach me at: [your-email@example.com] or [LinkedIn](https://www.linkedin.com/in/yefim-nudelman)
+- 📬 Reach me at: [yefimnu@gmail.com] or [LinkedIn](https://www.linkedin.com/in/yefim-nudelman)
 
 🎓 Education
 - 🎓 B.Sc. in Mathematics and Computer Science, Tel Aviv University
@@ -30,4 +30,7 @@
    ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
    ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
-Thanks for visiting my profile! Feel free to explore my repos and get in touch.
+🚀 **Let's Connect**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yefim-nudelman)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yefimnu@gmail.com)
