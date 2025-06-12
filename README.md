@@ -22,7 +22,7 @@
   ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ✨ Featured Projects
 
-1. [K-means Clustering in Python](https://github.com/NudelMaster/kmeans-python): Python implementation of the k-means clustering algorithm for grouping datasets.  
+1. [K-means Clustering in Python]([https://github.com/NudelMaster/Software_Project.git]): Python implementation of the k-means clustering algorithm for grouping datasets.  
    ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
    ![C](https://img.shields.io/badge/-C-555555?style=flat&logo=c&logoColor=white)    
 
