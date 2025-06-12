@@ -20,21 +20,14 @@
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)  
   ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+✨ Featured Projects
 
-📈 GitHub Stats  
-![Yefim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NudelMaster&show_icons=true&theme=radical)
----
-1. [Lunar Landing Reinforcement Learning](https://github.com/NudelMaster/lunar-landing-rl)  
-   Reinforcement learning project solving the Lunar Lander environment using PyTorch.  
-   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-   ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-
----
-2. [K-means Clustering in Python](https://github.com/NudelMaster/kmeans-python)  
-   Python implementation of k-means algorithm for clustering datasets.  
+1. [K-means Clustering in Python](https://github.com/NudelMaster/kmeans-python): Python implementation of the k-means clustering algorithm for grouping datasets.  
    ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
    [Live Demo](https://example-demo-link.com)
 
----
+2. [Lunar Landing Reinforcement Learning](https://github.com/NudelMaster/lunar-landing-rl): Reinforcement learning project solving the Lunar Lander environment using PyTorch.  
+   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+   ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 Thanks for visiting my profile! Feel free to explore my repos and get in touch.
