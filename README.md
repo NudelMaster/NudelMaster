@@ -7,7 +7,7 @@
 - 📬 Reach me at: [yefimnu@gmail.com] or [LinkedIn](https://www.linkedin.com/in/yefim-nudelman)
 
 🎓 Education
-- 🎓 B.Sc. in Mathematics and Computer Science, Tel Aviv University
+- 🎓 B.Sc. in Mathematics with Computer Science track, Tel Aviv University
 - 🏅 Completed courses/projects in Data Structures, Algorithms, Operating Systems, Machine Learning
 
 🛠 Technologies & Tools I Work With
