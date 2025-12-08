@@ -30,7 +30,7 @@
    ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
    ![C](https://img.shields.io/badge/-C-555555?style=flat&logo=c&logoColor=white)    
 
-2. [Twitter Emotion Classification (NLP)](https://github.com/NudelMaster/NLP): NLP project that performs emotion classification on Twitter data using deep learning (TensorFlow & Python).  
+2. [Twitter Emotion Classification (NLP)](https://github.com/Roeyx/NLP): NLP project that performs emotion classification on Twitter data using deep learning (TensorFlow & Python).  
    ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
    ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
