@@ -26,7 +26,7 @@
 
 ✨ Featured Projects
 
-1. [K-means Clustering in Python](https://github.com/NudelMaster/Software_Project.git): Python implementation of the k-means clustering algorithm for grouping datasets.  
+1. [Symmetric Non-negative Matrix Factorization (SymNMF) Clustering](https://github.com/NudelMaster/Software_Project.git): Python  implementation of the Symmetric Non-negative Matrix Factorization (SymNMF) clustering algorithm with Python and C integration.  
    ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
    ![C](https://img.shields.io/badge/-C-555555?style=flat&logo=c&logoColor=white)    
 
