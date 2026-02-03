@@ -25,7 +25,6 @@
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-  
 ✨ Featured Projects
 
 1. [Symmetric Non-negative Matrix Factorization (SymNMF) Clustering](https://github.com/NudelMaster/Software_Project.git): Python  implementation of the Symmetric Non-negative Matrix Factorization (SymNMF) clustering algorithm with Python and C integration.  
@@ -45,7 +44,7 @@
    ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
    ![StreamLit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
    
-
+   
 🚀 **Let's Connect**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yefim-nudelman)  
