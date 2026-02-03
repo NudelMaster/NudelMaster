@@ -9,9 +9,10 @@
 - 📬 Reach me at: [yefimnu@gmail.com] or [LinkedIn](https://www.linkedin.com/in/yefim-nudelman)
 
 🎓 Education
-- 🎓 B.Sc. in Mathematics with Computer Science track, Tel Aviv University
-- 🏅 Completed courses/projects in Data Structures, Algorithms, Operating Systems, Machine Learning
-
+- 🎓 B.Sc. in Mathematics with Computer Science track, Tel Aviv University (graduated)
+- 🏅 Completed courses/projects in Data Structures, Algorithms, Operating Systems, Machine Learning \
+- 🎓 M.Sc. in Electrical Engineering with Processing Information and Data Sciences — Thesis Track, Bar Ilan University (currently attending) \
+- 🏅 Completed courses/projects in Deep Learning, Optimization, NLP with Deep Learning techniques \
 🛠 Technologies & Tools I Work With
 - **Languages:**  
   ![C](https://img.shields.io/badge/-C-555555?style=flat&logo=c&logoColor=white)  
@@ -39,10 +40,11 @@
 3. [Lunar Landing Reinforcement Learning](https://github.com/NudelMaster/lunar-lander-rl): Reinforcement learning project solving the Lunar Lander environment using PyTorch.  
    ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
    ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-4. [Meal Prep Planner AI Agent](https://github.com/NudelMaster/meal_planner): End-to-end application with a backend service and UI for automated meal planning using retrieval-based generation (RAG).
-   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-   ![StreamLit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+4. [Meal Prep Planner AI Agent](https://github.com/NudelMaster/meal_planner): End-to-end application with a backend service and UI for automated meal planning using retrieval-based generation (RAG).\
+   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)\
+   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)\
+   ![StreamLit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)\
+   ![LlamaIndex](https://brandfetch.com/llamaindex.ai?view=library&library=default&collection=logos&asset=idU5AOYJU9&utm_source=https%253A%252F%252Fbrandfetch.com%252Fllamaindex.ai&utm_medium=copyAction&utm_campaign=brandPageReferral)
    
    
 🚀 **Let's Connect**
