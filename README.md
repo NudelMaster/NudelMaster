@@ -33,10 +33,16 @@
 2. [Twitter Emotion Classification (NLP)](https://github.com/Roeyx/NLP): NLP project that performs emotion classification on Twitter data using deep learning (TensorFlow & Python).  
    ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
    ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+   ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) 
 
 3. [Lunar Landing Reinforcement Learning](https://github.com/NudelMaster/lunar-lander-rl): Reinforcement learning project solving the Lunar Lander environment using PyTorch.  
    ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
    ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+4. [Meal Prep Planner AI Agent](https://github.com/NudelMaster/meal_planner): End-to-end application with a backend service and UI for automated meal planning using retrieval-based generation (RAG).
+   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+   ![StreamLit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+   
 
 🚀 **Let's Connect**
 
