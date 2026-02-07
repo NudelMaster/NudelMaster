@@ -28,7 +28,7 @@
 ### Selected Projects
 ✨Representative projects combining machine learning, algorithms, and backend systems.
 
-1. [Meal Prep Planner AI Agent](https://github.com/NudelMaster/meal_planner):Corrective RAG agent with intent-aware filtering, semantic retrieval, and web-search fallback, delivered through a backend API and interactive UI.
+1. [Meal Prep Planner AI Agent](https://github.com/NudelMaster/meal_planner):Corrective RAG agent with intent-aware filtering, semantic retrieval, and web-search fallback, delivered through a backend API and interactive UI.\
    ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)\
    ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)\
    ![StreamLit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
